@@ -47,7 +47,7 @@ void draw() {
     text("SONIDO", 400, 700-x);
     text("OCARINA OF TIME", 400, 750-x);
     text("IMAGENES", 400, 800-x);
-    text("SACAS DEL PROPIO VIDEOJUEGO", 400, 850-x);
+    text("SACADAS DEL PROPIO VIDEOJUEGO", 400, 850-x);
     text("MANIPULADAS CON PS", 400, 900-x);
     x++;
     fill(200);
